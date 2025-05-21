@@ -136,8 +136,22 @@ Please review the `Assignment-01.ipynb` file for your first AnimAI project task.
 
 **Submission Guidelines:**
 - Complete the assignment in the same Jupyter notebook `Assignment-01.ipynb` file
-- Include markdown cells explaining your approach
 - Make sure all code cells run without errors
+- Include markdown cells explaining your approach in the `Assignment-01.ipynb` file itself, no need to create separate report
+
+> **Submission Deadline**: **`28th May, 2025`**  
+You can submit your work directly through **WhatsApp**, however, we **strongly recommend** maintaining a **GitHub repository** for this project.
+
+This not only ensures version control and professional organization of your code but also significantly enhances your visibility and credibility when showcasing your portfolio for internships, open-source contributions, or academic references. Repositories that reflect structured commits, thoughtful documentation, and clean modular code can serve as powerful assets in both academic and industry settings.
+
+**Make sure your GitHub repo includes:**
+- A clear `README.md` explaining the project  
+- Well-commented code notebooks or `.py` files  
+- A folder structure separating raw data, notebooks, and reports  
+- Screenshots or visuals of results wherever applicable
+
+If you need guidance on how to set up a GitHub repo for this, feel free to ask.
+
 
 ## Additional Resources
 
@@ -145,4 +159,4 @@ Please review the `Assignment-01.ipynb` file for your first AnimAI project task.
 - [Real Python Tutorials](https://realpython.com/)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-Good luck with Week 1 of the AnimAI project! If you have any questions, don't hesitate to ask us.
+Good luck with Week 1 of the AnimAI! If you have any questions, don't hesitate to ask us.
