@@ -1,6 +1,10 @@
-# SoC 2025 – AnimAI Project
+# AnimAI Project
 
 ## What This Project Is About
+
+<p align="center">
+  <img src="./Week-03/output.png" alt="Cover Image" width="600"/>
+</p>
 
 Animation is not a small or shallow topic, it’s a rich field involving geometry, motion, perception, computer graphics, and learning. While we won’t be able to cover everything, our goal is to focus on the **most intuitive and impactful ideas**, especially where **mathematics and machine learning** come together in interesting ways.
 
@@ -28,5 +32,3 @@ Feel free to reach out to either of us directly or ask questions in the group if
 We’re here to learn and build together. Let’s make something awesome!
 
 **– Yaswanth & Harshit**
-
-Your Mentors for SoC 2025
