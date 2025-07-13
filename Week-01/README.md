@@ -1,6 +1,6 @@
-# Week 1: Environment Setup & Python Fundamentals | Seasons of Code - AnimAI Project
+# Week 1: Environment Setup & Python Fundamentals | AnimAI Project
 
-Welcome to Week 1 of the Seasons of Code (SoC) - AnimAI project! This week, we'll set up our Python development environment, get familiar with basic Python concepts through examples, and learn essential libraries for data analysis.
+Welcome to Week 1, we'll set up our Python development environment, get familiar with basic Python concepts through examples, and learn essential libraries for data analysis.
 
 ## Table of Contents
 1. [Python & VS Code Installation](#python--vs-code-installation)
