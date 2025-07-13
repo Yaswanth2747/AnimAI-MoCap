@@ -1,4 +1,4 @@
-# Week 2: Machine Learning Fundamentals | Seasons of Code - AnimAI Project
+# Week 2: Machine Learning Fundamentals | AnimAI Project
 
 Welcome to **Week 2** of the **Seasons of Code (SoC) - AnimAI** project!  
 This week, we'll build upon our ML fundamentals. Please refer to the PDF titled **`Intro_to_ML.pdf`** attached in this directory — it covers most of the basic concepts in machine learning.
